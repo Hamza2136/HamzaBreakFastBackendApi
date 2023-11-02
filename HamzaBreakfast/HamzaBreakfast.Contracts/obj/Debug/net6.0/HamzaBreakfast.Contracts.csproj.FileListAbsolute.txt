@@ -1,0 +1,11 @@
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\bin\Debug\net6.0\HamzaBreakfast.Contracts.deps.json
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\bin\Debug\net6.0\HamzaBreakfast.Contracts.dll
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\bin\Debug\net6.0\HamzaBreakfast.Contracts.pdb
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\HamzaBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\HamzaBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\HamzaBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\HamzaBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\HamzaBreakfast.Contracts.dll
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\refint\HamzaBreakfast.Contracts.dll
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\HamzaBreakfast.Contracts.pdb
+C:\Users\hamza\Desktop\BreakFast Api\HamzaBreakfast\HamzaBreakfast.Contracts\obj\Debug\net6.0\ref\HamzaBreakfast.Contracts.dll
